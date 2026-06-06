@@ -1,7 +1,6 @@
 import evdev
 import selectors
 import sys
-from pathlib import Path
 
 def discover_devices() -> list[evdev.InputDevice]:
     devices = []
