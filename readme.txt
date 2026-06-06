@@ -21,7 +21,7 @@ Run to configure group permissions rules:
 Installation
 ------------
   python3 -m venv .venv
-  (venv) source .venv/bin/activate
+  source .venv/bin/activate
   (venv) pip install -r requirements.txt
 
 Usage
